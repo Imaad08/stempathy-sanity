@@ -1,7 +1,7 @@
 export default {
     name: 'post',
     type: 'document',
-    title: 'Post',
+    title: 'DO NOT USE SANITY, USE MDX IN MAIN REPO',
     fields: [
       {
         name: 'title',
